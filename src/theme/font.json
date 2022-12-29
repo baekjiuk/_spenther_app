@@ -1,0 +1,32 @@
+{
+  "family": {
+    "AppleSDGothicNeo": "'Apple SD Gothic Neo'"
+  },
+  "size": {
+    "10": "10px",
+    "12": "12px",
+    "14": "14px",
+    "15": "15px",
+    "16": "16px",
+    "20": "20px",
+    "24": "24px",
+    "26": "26px"
+  },
+  "weight": {
+    "regular": "400",
+    "medium": "500",
+    "semibold": "600",
+    "bold": "700",
+    "extrabold": "800"
+  },
+  "lineHeight": {
+    "10": "17px",
+    "12": "19px",
+    "14": "21px",
+    "15": "21px",
+    "16": "23px",
+    "20": "27px",
+    "24": "34px",
+    "26": "34px"
+  }
+}
