@@ -20,13 +20,13 @@ const Text = styled.Text`
   font-size: ${({theme}) => theme.font.size[26]};
 `;
 
-const List = () => {
+const List = ({title}: {title: string}) => {
   const {color} = useTheme();
   const res = useQuery(USER);
   console.log(res.error, res.data);
   return (
     <View>
-      <Text>hi</Text>
+      <Text>{title}</Text>
       <Input type="password" />
       <Input placeholder="1234" />
       <Button label="hi" />
